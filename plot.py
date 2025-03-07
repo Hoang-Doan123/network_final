@@ -15,6 +15,8 @@ plt.grid(True)
 plt.tight_layout()
 plt.savefig("fig1")
 
+plt.clf() # Clear figure
+
 # Plot delay
 plt.plot(delay_data['Nodes'], delay_data['AvgDelay(ms)'], 'ro-', linewidth=2)
 plt.title('Average Delay vs Number of Nodes (High Contention)')
