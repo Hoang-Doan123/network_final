@@ -29,3 +29,4 @@ Members
 ``packetloss-vs-nodes-high-contention.csv``
 
 All of them are generated after running final_2.cc file.
+The plot.py will create 3 different png files.
