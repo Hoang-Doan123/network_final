@@ -13,6 +13,7 @@ Members
 |BA12-022|Nguyen Vu The Binh|
 |BA12-102|Duong Dam Lam|
 |BA12-192|Nguyen Quoc Viet|
+|BA12-057| Pham Thai Duong|
 |BI12-388|Nguyen Truong Son|
 
 **Note for running the files correctly:**
